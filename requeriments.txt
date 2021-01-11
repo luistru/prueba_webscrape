@@ -1,0 +1,6 @@
+requerimientos del script 
+-desarrollado en vscode
+-python 3.9.1
+-pandas 1.2.0
+-beautilfulsoup 4.9.3
+-requests 2.25.1
